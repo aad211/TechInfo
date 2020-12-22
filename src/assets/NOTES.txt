@@ -1,2 +1,0 @@
-noProductPicture buat kalo gak ada gambar produk atau gambar lagi loading
-noProfilePicture buat kalo gak ada gambar profile atau gambar lagi loading

@@ -1,2 +1,0 @@
-# TechInfo
-Proyek Akhir RPL
