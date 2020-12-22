@@ -6,7 +6,7 @@
  * @flow strict-local
  */
 
- //SEMENTARA DICOMMAND
+//SEMENTARA DICOMMAND
 /*import React, { Component } from 'react';
 import { Button, StyleSheet, View, Text, Image, ScrollView, TextInput } from 'react-native';
 import style from './src/style';
@@ -46,3 +46,12 @@ export default class app extends Component {
     );
   }
 }*/
+
+import React, {Component} from 'react';
+import MainScreen from './src/main/mainScreen';
+
+export default class app extends Component {
+  render() {
+    return <MainScreen />;
+  }
+}
